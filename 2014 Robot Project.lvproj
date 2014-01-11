@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="13008000">
 	<Property Name="varPersistentID:{81193E85-6BDE-4AB3-BFDF-4DFD3292CE0D}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/joystickOne</Property>
 	<Property Name="varPersistentID:{983610F2-25AF-4496-AC3B-C7A6122D52F5}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/leftAndRightMotors</Property>
+	<Property Name="varPersistentID:{F7191914-E0E7-481B-B8AE-105A71E48030}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/camerone</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
