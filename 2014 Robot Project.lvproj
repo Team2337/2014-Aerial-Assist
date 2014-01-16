@@ -1,14 +1,10 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="13008000">
-	<Property Name="varPersistentID:{53895EA0-85E4-4AF4-B8D2-AEBC7A9AFB9C}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/frontRightMotor</Property>
+	<Property Name="varPersistentID:{53895EA0-85E4-4AF4-B8D2-AEBC7A9AFB9C}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/rightDriveMotor</Property>
 	<Property Name="varPersistentID:{81193E85-6BDE-4AB3-BFDF-4DFD3292CE0D}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/joystickOne</Property>
-	<Property Name="varPersistentID:{983610F2-25AF-4496-AC3B-C7A6122D52F5}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/frontLeftMotor</Property>
-	<Property Name="varPersistentID:{B326B89E-869A-4262-8D68-FFC6CA87E467}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/backLeftMotor</Property>
-	<Property Name="varPersistentID:{B7E6D243-4D7F-48BB-9E6B-87FE9DDE5341}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/backRightMotor</Property>
-	<Property Name="varPersistentID:{C9C3FBB8-2DE7-4967-A7A4-C450A8F0BB7C}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/driveValueFrontLeft</Property>
-	<Property Name="varPersistentID:{D17F5655-A02D-48DC-AEAA-67072073BE2E}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/driveValueBackRight</Property>
-	<Property Name="varPersistentID:{E71A3C4E-E1AC-4FB1-AC85-4D42C54984F3}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/driveValueFrontRight</Property>
-	<Property Name="varPersistentID:{EBB147DB-C481-4683-AA2B-442691726F18}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/driveValueBackLeft</Property>
+	<Property Name="varPersistentID:{983610F2-25AF-4496-AC3B-C7A6122D52F5}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/leftDriveMotor</Property>
+	<Property Name="varPersistentID:{C9C3FBB8-2DE7-4967-A7A4-C450A8F0BB7C}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/driveValueLeft</Property>
+	<Property Name="varPersistentID:{E71A3C4E-E1AC-4FB1-AC85-4D42C54984F3}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/driveValueRight</Property>
 	<Property Name="varPersistentID:{F7191914-E0E7-481B-B8AE-105A71E48030}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/cameraOne</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -543,11 +539,11 @@ DirectoryIndex index.htm
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="4motorDriveCheesyStrafe.vi" Type="VI" URL="../4motorDriveCheesyStrafe.vi"/>
 			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
 			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
 			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
 			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
-			<Item Name="4motorDriveCheesyStrafe.vi" Type="VI" URL="../../../../Desktop/2014-Aerial-Assist/4motorDriveCheesyStrafe.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
