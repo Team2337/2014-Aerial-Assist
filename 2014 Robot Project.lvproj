@@ -1,15 +1,26 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="13008000">
-	<Property Name="varPersistentID:{53895EA0-85E4-4AF4-B8D2-AEBC7A9AFB9C}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/frontRightMotor</Property>
-	<Property Name="varPersistentID:{81193E85-6BDE-4AB3-BFDF-4DFD3292CE0D}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/joystickOne</Property>
-	<Property Name="varPersistentID:{983610F2-25AF-4496-AC3B-C7A6122D52F5}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/frontLeftMotor</Property>
-	<Property Name="varPersistentID:{B326B89E-869A-4262-8D68-FFC6CA87E467}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/backLeftMotor</Property>
-	<Property Name="varPersistentID:{B7E6D243-4D7F-48BB-9E6B-87FE9DDE5341}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/backRightMotor</Property>
-	<Property Name="varPersistentID:{C9C3FBB8-2DE7-4967-A7A4-C450A8F0BB7C}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/driveValueFrontLeft</Property>
-	<Property Name="varPersistentID:{D17F5655-A02D-48DC-AEAA-67072073BE2E}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/driveValueBackRight</Property>
-	<Property Name="varPersistentID:{E71A3C4E-E1AC-4FB1-AC85-4D42C54984F3}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/driveValueFrontRight</Property>
-	<Property Name="varPersistentID:{EBB147DB-C481-4683-AA2B-442691726F18}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/driveValueBackLeft</Property>
-	<Property Name="varPersistentID:{F7191914-E0E7-481B-B8AE-105A71E48030}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/cameraOne</Property>
+	<Property Name="varPersistentID:{1700E34C-F00E-474F-8030-CC0EAEB579AB}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/shotType</Property>
+	<Property Name="varPersistentID:{1EEC7596-81FF-410B-B3C9-141AC7ACA13F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveValueBackLeft</Property>
+	<Property Name="varPersistentID:{2183D64E-3D40-40F5-A404-B22B4961F855}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/armMotorLeft</Property>
+	<Property Name="varPersistentID:{26C7DFE3-FACB-4779-AD01-F2FD0E718047}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveValueFrontRight</Property>
+	<Property Name="varPersistentID:{30C2E21A-9468-4012-B56C-79714B27D7B9}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/joystickTwo</Property>
+	<Property Name="varPersistentID:{38C04AB4-DA2E-4DF6-9DB6-A8C5ED459C9A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armMotorValueRight</Property>
+	<Property Name="varPersistentID:{4AC50839-A93E-44F0-88EC-5BB6B2FA7D4A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/shooter</Property>
+	<Property Name="varPersistentID:{4D7C9D3D-018A-4F44-A2D0-920E30252A35}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/cameraOne</Property>
+	<Property Name="varPersistentID:{5D9D2127-E42C-4DCC-A477-0AD3E285281D}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveValueBackRight</Property>
+	<Property Name="varPersistentID:{6B69E201-60CF-4246-9E34-C58847E1DCEF}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armMotorValueLeft</Property>
+	<Property Name="varPersistentID:{ACF2A78C-4920-476A-ADE8-2361C5003AAD}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/limitSwitch</Property>
+	<Property Name="varPersistentID:{B6B961D5-5FF0-46E5-8104-7221D7B0039E}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/frontRightDrive</Property>
+	<Property Name="varPersistentID:{C251BF90-06EA-4353-9DF1-D94443AA0603}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/armMotorRight</Property>
+	<Property Name="varPersistentID:{D0546446-F81E-4DF5-8723-FE60F76BECCA}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/backLeftDrive</Property>
+	<Property Name="varPersistentID:{D3373DCE-4C5D-4CAD-9AB0-1149CB3C607B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/joystickOne</Property>
+	<Property Name="varPersistentID:{D5F9F28D-66E8-479E-A952-F50E077D1DF2}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/frontLeftDrive</Property>
+	<Property Name="varPersistentID:{D8215ACE-C91F-4B13-A666-44889989FC78}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/shotTypeValue</Property>
+	<Property Name="varPersistentID:{D92D2887-7417-4322-B005-5D1CAB00AE22}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveValueFrontLeft</Property>
+	<Property Name="varPersistentID:{DC3C498C-CAE0-4A08-975B-6BF02577DDBC}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/shooterValue</Property>
+	<Property Name="varPersistentID:{DCCA17BB-8EED-4088-8172-06E63A0EFBA5}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/limitSwitchValue</Property>
+	<Property Name="varPersistentID:{E68A1638-A1E6-4B3C-983C-871B93A98896}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/backRightDrive</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -536,6 +547,31 @@ DirectoryIndex index.htm
 				<Item Name="WPI_DriverStationCreate Lib Version File.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationCreate Lib Version File.vi"/>
 				<Item Name="WPI_MotorControlRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_MotorControlRefNum Registry Set.vi"/>
 				<Item Name="WPI_MotorControlRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_MotorControlRefNum Registry Get.vi"/>
+				<Item Name="WPI_SolenoidOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidOpen.vi"/>
+				<Item Name="WPI_SolenoidOpenSingle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidOpenSingle.vi"/>
+				<Item Name="WPI_SolenoidDevRef.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidDevRef.ctl"/>
+				<Item Name="FPGA_TypedefSolenoidModule.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Typedef/FPGA_TypedefSolenoidModule.ctl"/>
+				<Item Name="WPI_SolenoidChannel.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidChannel.ctl"/>
+				<Item Name="WPI_SolenoidCacheOp.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidCacheOp.ctl"/>
+				<Item Name="WPI_SolenoidCache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidCache.vi"/>
+				<Item Name="WPI_ERRAllocAnInvalidSolenoidIdx.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_ERRAllocAnInvalidSolenoidIdx.vi"/>
+				<Item Name="FPGA_ModuleValidationERRInvalidSolenoidModuleError.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/ModuleValidation/FPGA_ModuleValidationERRInvalidSolenoidModuleError.vi"/>
+				<Item Name="WPI_ERRSolenoidAllocation.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_ERRSolenoidAllocation.vi"/>
+				<Item Name="WPI_SolenoidOpenDouble.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidOpenDouble.vi"/>
+				<Item Name="WPI_SolenoidRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidRefNum Registry Set.vi"/>
+				<Item Name="WPI_SolenoidGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidGetSetRefNum.vi"/>
+				<Item Name="WPI_DigitalInputOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputOpen.vi"/>
+				<Item Name="WPI_DigitalModuleDIOCacheOp.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalModule/WPI_DigitalModuleDIOCacheOp.ctl"/>
+				<Item Name="WPI_DigitalModuleValidateDIOChannel.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalModule/WPI_DigitalModuleValidateDIOChannel.vi"/>
+				<Item Name="WPI_DigitalModuleDIOAllocator.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalModule/WPI_DigitalModuleDIOAllocator.vi"/>
+				<Item Name="WPI_DigitalModuleDIOCache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalModule/WPI_DigitalModuleDIOCache.vi"/>
+				<Item Name="WPI_DigitalModuleERRInvalidDIOIdx.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalModule/WPI_DigitalModuleERRInvalidDIOIdx.vi"/>
+				<Item Name="WPI_DigitalModuleERRDIOAlreadyAllocated.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalModule/WPI_DigitalModuleERRDIOAlreadyAllocated.vi"/>
+				<Item Name="FPGA_DIOWriteOutputEnable.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/DIO/FPGA_DIOWriteOutputEnable.vi"/>
+				<Item Name="FPGA_DIOReadOutputEnable.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/DIO/FPGA_DIOReadOutputEnable.vi"/>
+				<Item Name="WPI_DigitalInputRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputRefNum Registry Set.vi"/>
+				<Item Name="WPI_DigitalInputGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputGetSetRefNum.vi"/>
+				<Item Name="WPI_DigitalInputRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputRefNum Registry Get.vi"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
