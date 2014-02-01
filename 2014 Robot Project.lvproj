@@ -1,18 +1,25 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="13008000">
+	<Property Name="varPersistentID:{12050ED8-EBFB-4708-BC30-8DBCA70391BF}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/intakeMotorLeft</Property>
 	<Property Name="varPersistentID:{1700E34C-F00E-474F-8030-CC0EAEB579AB}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/shotType</Property>
 	<Property Name="varPersistentID:{1EEC7596-81FF-410B-B3C9-141AC7ACA13F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveValueBackLeft</Property>
 	<Property Name="varPersistentID:{2183D64E-3D40-40F5-A404-B22B4961F855}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/armMotorLeft</Property>
 	<Property Name="varPersistentID:{26C7DFE3-FACB-4779-AD01-F2FD0E718047}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveValueFrontRight</Property>
+	<Property Name="varPersistentID:{2FFFF7A0-266B-45B7-B42D-430209B6C74B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/intakeMotorRight</Property>
 	<Property Name="varPersistentID:{30C2E21A-9468-4012-B56C-79714B27D7B9}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/joystickTwo</Property>
 	<Property Name="varPersistentID:{38C04AB4-DA2E-4DF6-9DB6-A8C5ED459C9A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armMotorValueRight</Property>
 	<Property Name="varPersistentID:{4AC50839-A93E-44F0-88EC-5BB6B2FA7D4A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/shooter</Property>
 	<Property Name="varPersistentID:{4D7C9D3D-018A-4F44-A2D0-920E30252A35}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/cameraOne</Property>
+	<Property Name="varPersistentID:{58BBC451-1B2D-43C4-9A92-8590C8D3272B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakeMotorValueLeft</Property>
 	<Property Name="varPersistentID:{5D9D2127-E42C-4DCC-A477-0AD3E285281D}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveValueBackRight</Property>
 	<Property Name="varPersistentID:{6B69E201-60CF-4246-9E34-C58847E1DCEF}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armMotorValueLeft</Property>
+	<Property Name="varPersistentID:{79C51D65-11C9-45F1-A87F-7C383C99D475}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/intakePneumaticRight</Property>
+	<Property Name="varPersistentID:{7CC538DB-6EA9-4D41-8CC8-8CACFB4D0DB1}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakePneumaticValueLeft</Property>
 	<Property Name="varPersistentID:{ACF2A78C-4920-476A-ADE8-2361C5003AAD}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/limitSwitch</Property>
 	<Property Name="varPersistentID:{B6B961D5-5FF0-46E5-8104-7221D7B0039E}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/frontRightDrive</Property>
+	<Property Name="varPersistentID:{C0F340DE-D556-4F8B-8B41-159DCC9EC1A0}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakeMotorValueRight</Property>
 	<Property Name="varPersistentID:{C251BF90-06EA-4353-9DF1-D94443AA0603}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/armMotorRight</Property>
+	<Property Name="varPersistentID:{C4E9599A-6713-4CEC-A6A4-2ACFD92266E0}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakePneumaticValueRight</Property>
 	<Property Name="varPersistentID:{D0546446-F81E-4DF5-8723-FE60F76BECCA}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/backLeftDrive</Property>
 	<Property Name="varPersistentID:{D3373DCE-4C5D-4CAD-9AB0-1149CB3C607B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/joystickOne</Property>
 	<Property Name="varPersistentID:{D5F9F28D-66E8-479E-A952-F50E077D1DF2}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/frontLeftDrive</Property>
@@ -21,6 +28,7 @@
 	<Property Name="varPersistentID:{DC3C498C-CAE0-4A08-975B-6BF02577DDBC}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/shooterValue</Property>
 	<Property Name="varPersistentID:{DCCA17BB-8EED-4088-8172-06E63A0EFBA5}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/limitSwitchValue</Property>
 	<Property Name="varPersistentID:{E68A1638-A1E6-4B3C-983C-871B93A98896}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/backRightDrive</Property>
+	<Property Name="varPersistentID:{FBDDFDB2-D901-49CE-B9BE-B3AC53761D18}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/intakePneumaticLeft</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -611,7 +619,8 @@ DirectoryIndex index.htm
 				<Property Name="Bld_buildSpecName" Type="Str">FRC Robot Boot-up Deployment</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">/C/Users/Colin/2014-Aerial-Assist/2014-Aerial-Assist/Builds</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../Builds/NI_AB_PROJECTNAME.lvlps</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{818764A5-CF2F-459D-99A2-FC861F69E9D6}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/c/ni-rt/startup</Property>
@@ -624,7 +633,7 @@ DirectoryIndex index.htm
 				<Property Name="Destination[1].path" Type="Path">/c/ni-rt/startup/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{731BD68C-E215-4DF6-AEFD-CC6489E4E327}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{1A54E44B-8B64-4E0F-BE66-1A6E3FB4E214}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/RT CompactRIO Target/Robot Main.vi</Property>
@@ -633,7 +642,6 @@ DirectoryIndex index.htm
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">NI</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">My Real-Time Application</Property>
-				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">My Real-Time Application</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2008 NI</Property>
 				<Property Name="TgtF_productName" Type="Str">My Real-Time Application</Property>
