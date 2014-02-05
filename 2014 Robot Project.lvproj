@@ -12,8 +12,10 @@
 	<Property Name="varPersistentID:{4D7C9D3D-018A-4F44-A2D0-920E30252A35}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/cameraOne</Property>
 	<Property Name="varPersistentID:{58BBC451-1B2D-43C4-9A92-8590C8D3272B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakeMotorValue</Property>
 	<Property Name="varPersistentID:{6B69E201-60CF-4246-9E34-C58847E1DCEF}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armMotorValue</Property>
+	<Property Name="varPersistentID:{76F3C980-D584-4980-A197-42B84A65FAED}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/winchShifterValue</Property>
 	<Property Name="varPersistentID:{79C51D65-11C9-45F1-A87F-7C383C99D475}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/intakePneumaticRight</Property>
 	<Property Name="varPersistentID:{7CC538DB-6EA9-4D41-8CC8-8CACFB4D0DB1}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakePneumaticValue</Property>
+	<Property Name="varPersistentID:{AADF3314-3CE9-4589-9305-5A8EA692209F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveShifterValue</Property>
 	<Property Name="varPersistentID:{ACF2A78C-4920-476A-ADE8-2361C5003AAD}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/limitSwitch</Property>
 	<Property Name="varPersistentID:{B6B961D5-5FF0-46E5-8104-7221D7B0039E}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/frontRightDrive</Property>
 	<Property Name="varPersistentID:{C251BF90-06EA-4353-9DF1-D94443AA0603}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/armMotorRight</Property>
