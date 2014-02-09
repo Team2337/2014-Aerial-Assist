@@ -1,38 +1,35 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="13008000">
-	<Property Name="varPersistentID:{12050ED8-EBFB-4708-BC30-8DBCA70391BF}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/intakeMotorLeft</Property>
-	<Property Name="varPersistentID:{1700E34C-F00E-474F-8030-CC0EAEB579AB}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/shotType</Property>
-	<Property Name="varPersistentID:{2183D64E-3D40-40F5-A404-B22B4961F855}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/armMotorLeft</Property>
+	<Property Name="varPersistentID:{12050ED8-EBFB-4708-BC30-8DBCA70391BF}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/05intakeMotorLeft</Property>
+	<Property Name="varPersistentID:{1700E34C-F00E-474F-8030-CC0EAEB579AB}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/09shooterAuton</Property>
 	<Property Name="varPersistentID:{226AA85E-8168-4590-9AC3-A909F5A20EED}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/ballSensorValue</Property>
 	<Property Name="varPersistentID:{26C7DFE3-FACB-4779-AD01-F2FD0E718047}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveValueRight</Property>
-	<Property Name="varPersistentID:{2FFFF7A0-266B-45B7-B42D-430209B6C74B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/intakeMotorRight</Property>
-	<Property Name="varPersistentID:{30C2E21A-9468-4012-B56C-79714B27D7B9}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/joystickTwo</Property>
+	<Property Name="varPersistentID:{2FFFF7A0-266B-45B7-B42D-430209B6C74B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/06intakeMotorRight</Property>
+	<Property Name="varPersistentID:{30C2E21A-9468-4012-B56C-79714B27D7B9}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/18joystickTwo</Property>
 	<Property Name="varPersistentID:{45D87486-8590-429A-912E-FF54CA4C204F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/winchShifterValue</Property>
-	<Property Name="varPersistentID:{4AC50839-A93E-44F0-88EC-5BB6B2FA7D4A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/shooter</Property>
-	<Property Name="varPersistentID:{4D7C9D3D-018A-4F44-A2D0-920E30252A35}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/cameraOne</Property>
+	<Property Name="varPersistentID:{4AC50839-A93E-44F0-88EC-5BB6B2FA7D4A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/10shooterTeleop</Property>
+	<Property Name="varPersistentID:{4D7C9D3D-018A-4F44-A2D0-920E30252A35}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/16cameraOne</Property>
 	<Property Name="varPersistentID:{58BBC451-1B2D-43C4-9A92-8590C8D3272B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakeMotorValue</Property>
-	<Property Name="varPersistentID:{5BFAB03B-B5AF-4F96-8E1C-AC7A9F77B0F4}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/compressor</Property>
-	<Property Name="varPersistentID:{65B55366-DBAF-4030-86E5-3E28082794D6}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/winchShifter</Property>
+	<Property Name="varPersistentID:{5BFAB03B-B5AF-4F96-8E1C-AC7A9F77B0F4}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/13compressor</Property>
+	<Property Name="varPersistentID:{65B55366-DBAF-4030-86E5-3E28082794D6}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/12winchShifter</Property>
 	<Property Name="varPersistentID:{6B69E201-60CF-4246-9E34-C58847E1DCEF}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armMotorValue</Property>
-	<Property Name="varPersistentID:{79C51D65-11C9-45F1-A87F-7C383C99D475}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/intakePneumaticRight</Property>
+	<Property Name="varPersistentID:{79C51D65-11C9-45F1-A87F-7C383C99D475}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/08intakePneumaticRight</Property>
 	<Property Name="varPersistentID:{7CC538DB-6EA9-4D41-8CC8-8CACFB4D0DB1}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakePneumaticValue</Property>
 	<Property Name="varPersistentID:{8FB10997-CD27-4494-AE2B-243B333BD1AB}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveLeft</Property>
-	<Property Name="varPersistentID:{ACF2A78C-4920-476A-ADE8-2361C5003AAD}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/limitSwitch</Property>
-	<Property Name="varPersistentID:{B6B961D5-5FF0-46E5-8104-7221D7B0039E}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/frontRightDrive</Property>
-	<Property Name="varPersistentID:{C251BF90-06EA-4353-9DF1-D94443AA0603}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/armMotorRight</Property>
+	<Property Name="varPersistentID:{ACF2A78C-4920-476A-ADE8-2361C5003AAD}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/15limitSwitch</Property>
+	<Property Name="varPersistentID:{B6B961D5-5FF0-46E5-8104-7221D7B0039E}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/04rightDrive</Property>
+	<Property Name="varPersistentID:{C251BF90-06EA-4353-9DF1-D94443AA0603}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/02armMotor</Property>
 	<Property Name="varPersistentID:{CE00B2E4-AC8F-4578-91FD-86E3AC8A74F5}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/autoNumber</Property>
-	<Property Name="varPersistentID:{D0546446-F81E-4DF5-8723-FE60F76BECCA}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/backLeftDrive</Property>
-	<Property Name="varPersistentID:{D3373DCE-4C5D-4CAD-9AB0-1149CB3C607B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/joystickOne</Property>
-	<Property Name="varPersistentID:{D5F9F28D-66E8-479E-A952-F50E077D1DF2}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/frontLeftDrive</Property>
+	<Property Name="varPersistentID:{D0546446-F81E-4DF5-8723-FE60F76BECCA}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/03leftDrive</Property>
+	<Property Name="varPersistentID:{D3373DCE-4C5D-4CAD-9AB0-1149CB3C607B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/17joystickOne</Property>
 	<Property Name="varPersistentID:{D8215ACE-C91F-4B13-A666-44889989FC78}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/shotTypeValue</Property>
 	<Property Name="varPersistentID:{D92D2887-7417-4322-B005-5D1CAB00AE22}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveValueLeft</Property>
 	<Property Name="varPersistentID:{DC3C498C-CAE0-4A08-975B-6BF02577DDBC}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/shooterValue</Property>
 	<Property Name="varPersistentID:{DCCA17BB-8EED-4088-8172-06E63A0EFBA5}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/limitSwitchValue</Property>
-	<Property Name="varPersistentID:{E68A1638-A1E6-4B3C-983C-871B93A98896}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/backRightDrive</Property>
 	<Property Name="varPersistentID:{E89240E5-04B7-4D49-94B6-DDA0973F5B8A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveShifterValue</Property>
-	<Property Name="varPersistentID:{F9D0212F-9703-4E4B-8482-CC2A8524F88B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/driveShifter</Property>
-	<Property Name="varPersistentID:{FBDDFDB2-D901-49CE-B9BE-B3AC53761D18}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/intakePneumaticLeft</Property>
-	<Property Name="varPersistentID:{FD7B786E-C758-4227-BFB4-FF32382EA71B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/ballSensor</Property>
+	<Property Name="varPersistentID:{F9D0212F-9703-4E4B-8482-CC2A8524F88B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/11driveShifter</Property>
+	<Property Name="varPersistentID:{FBDDFDB2-D901-49CE-B9BE-B3AC53761D18}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/07intakePneumaticLeft</Property>
+	<Property Name="varPersistentID:{FD7B786E-C758-4227-BFB4-FF32382EA71B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/14ballSensor</Property>
 	<Property Name="varPersistentID:{FDD38C8A-C529-4688-8418-6D2566BA248C}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveRight</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -78,7 +75,6 @@
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Timeout" Type="Int">60</Property>
-		<Property Name="target.IOScan.Enabled" Type="Bool">true</Property>
 		<Property Name="target.IOScan.Faults" Type="Str"></Property>
 		<Property Name="target.IOScan.NetVarPeriod" Type="UInt">100</Property>
 		<Property Name="target.IOScan.NetWatchdogEnabled" Type="Bool">false</Property>
@@ -628,60 +624,6 @@ DirectoryIndex index.htm
 				<Item Name="WPI_AnalogChannelOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelOpen.vi"/>
 				<Item Name="WPI_AnalogModuleOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogModule/WPI_AnalogModuleOpen.vi"/>
 				<Item Name="WPI_AnalogModuleDefaults.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogModule/WPI_AnalogModuleDefaults.vi"/>
-				<Item Name="WPI_DriverStationStart Communication.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationStart Communication.vi"/>
-				<Item Name="WPI_DriverStationLaptopDataCacheOp.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationLaptopDataCacheOp.ctl"/>
-				<Item Name="WPI_Enhanced IORaw Output Operation Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IORaw Output Operation Mode.ctl"/>
-				<Item Name="WPI_DriverStationStatusDataCache.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationStatusDataCache.ctl"/>
-				<Item Name="FPGA_ErrorManagementHandleRuntimeErrors.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/ErrorManagement/FPGA_ErrorManagementHandleRuntimeErrors.vi"/>
-				<Item Name="NetComm_ObserveUserProgramStarting.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_ObserveUserProgramStarting.vi"/>
-				<Item Name="WPI_DriverStationCreate Lib Version File.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationCreate Lib Version File.vi"/>
-				<Item Name="WPI_DriverStationLaptopDataCache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationLaptopDataCache.vi"/>
-				<Item Name="NetComm_SetNewDataOccurrenceReference.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_SetNewDataOccurrenceReference.vi"/>
-				<Item Name="WPI_Enhanced IOAccess Raw Cypress outputs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOAccess Raw Cypress outputs.vi"/>
-				<Item Name="WPI_Enhanced IODataOut.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IODataOut.ctl"/>
-				<Item Name="WPI_Enhanced IOEERCustomIO.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOEERCustomIO.vi"/>
-				<Item Name="NetComm_EnhancedIO_SetConfig.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_EnhancedIO_SetConfig.vi"/>
-				<Item Name="WPI_DriverStationStatusDataCache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationStatusDataCache.vi"/>
-				<Item Name="NetComm_EnhancedIO_GetInputData.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_EnhancedIO_GetInputData.vi"/>
-				<Item Name="WPI_Enhanced IODataIn.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IODataIn.ctl"/>
-				<Item Name="WPI_Enhanced IOAccess Raw Cypress inputs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOAccess Raw Cypress inputs.vi"/>
-				<Item Name="NetComm_SetStatusData.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_SetStatusData.vi"/>
-				<Item Name="NetComm_EnhancedIO_GetOutputData.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_EnhancedIO_GetOutputData.vi"/>
-				<Item Name="WPI_Enhanced IOCompare Configs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/Enhanced IO/WPI_Enhanced IOCompare Configs.vi"/>
-				<Item Name="NetComm_GetCommonControlData.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_GetCommonControlData.vi"/>
-				<Item Name="WPI_DriverStationCommPacketData.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationCommPacketData.ctl"/>
-				<Item Name="NetComm_Kinect_GetJoystickData.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_Kinect_GetJoystickData.vi"/>
-				<Item Name="WPI_SafetyOutputEngine.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/SafetyOutput/WPI_SafetyOutputEngine.vi"/>
-				<Item Name="FPGA_WatchDogReadCount.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/WatchDog/FPGA_WatchDogReadCount.vi"/>
-				<Item Name="NetComm_SetErrorData.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_SetErrorData.vi"/>
-				<Item Name="WPI_AnalogChannelGetAverageVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelGetAverageVoltage.vi"/>
-				<Item Name="WPI_AnalogModuleGetAverageVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogModule/WPI_AnalogModuleGetAverageVoltage.vi"/>
-				<Item Name="WPI_DriverStationBatteryVoltageGlobal.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationBatteryVoltageGlobal.vi"/>
-				<Item Name="NT Server.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT Server.vi"/>
-				<Item Name="Connection Loop.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Connection Loop.vi"/>
-				<Item Name="Process one Action.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Process one Action.vi"/>
-				<Item Name="NT Event Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT Event Type.ctl"/>
-				<Item Name="Protocol Operations.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Protocol Operations.ctl"/>
-				<Item Name="Transmitted Bytes.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Transmitted Bytes.vi"/>
-				<Item Name="Parse NT Data.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Parse NT Data.vi"/>
-				<Item Name="Parse NT Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Parse NT Boolean.vi"/>
-				<Item Name="Parse NT Dbl.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Parse NT Dbl.vi"/>
-				<Item Name="Parse NT String.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Parse NT String.vi"/>
-				<Item Name="Parse NT Boolean Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Parse NT Boolean Array.vi"/>
-				<Item Name="Parse NT Numeric Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Parse NT Numeric Array.vi"/>
-				<Item Name="Parse NT String Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Parse NT String Array.vi"/>
-				<Item Name="Update Entry.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Update Entry.vi"/>
-				<Item Name="Compare Seq Numbers.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Compare Seq Numbers.vi"/>
-				<Item Name="Build NT Ping Buffer.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Build NT Ping Buffer.vi"/>
-				<Item Name="Handle Dirty Elements.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Handle Dirty Elements.vi"/>
-				<Item Name="Compute Delta.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Compute Delta.vi"/>
-				<Item Name="Handle Dirty Fields for a Connection.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Handle Dirty Fields for a Connection.vi"/>
-				<Item Name="Build NT Data Update for Cluster.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Build NT Data Update for Cluster.vi"/>
-				<Item Name="Build NT Field ID Buffer.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Build NT Field ID Buffer.vi"/>
-				<Item Name="WPI_DriverStationGet Robot Mode.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGet Robot Mode.vi"/>
-				<Item Name="WPI_DriverStationStartStopVI.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationStartStopVI.vi"/>
-				<Item Name="WPI_DriverStationStart VI Asynchronous.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationStart VI Asynchronous.vi"/>
-				<Item Name="WPI_DriverStationStop VI Asynchronous.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationStop VI Asynchronous.vi"/>
 				<Item Name="WPI_AnalogChannelGetSetRefNum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelGetSetRefNum.vi"/>
 				<Item Name="WPI_AnalogChannelRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelRefNum Registry Get.vi"/>
 				<Item Name="WPI_AnalogModuleGetVoltage.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogModule/WPI_AnalogModuleGetVoltage.vi"/>
