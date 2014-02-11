@@ -751,7 +751,7 @@ DirectoryIndex index.htm
 				<Property Name="Destination[1].path" Type="Path">/c/ni-rt/startup/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{DCC54B6B-B5AB-4906-BAF9-2D38AAF6F256}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9108C64D-0E2F-4C87-9BC5-9D0D956F5C21}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/RT CompactRIO Target/Team Code/Begin.vi</Property>
