@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="13008000">
+	<Property Name="varPersistentID:{00ED0D75-1626-448A-A29E-D55908DEB099}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armDown</Property>
 	<Property Name="varPersistentID:{0643643C-CA92-4F8F-896F-82045510F7C0}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/leftCatcherValue</Property>
 	<Property Name="varPersistentID:{12050ED8-EBFB-4708-BC30-8DBCA70391BF}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/04intakeMotorLeft</Property>
 	<Property Name="varPersistentID:{1700E34C-F00E-474F-8030-CC0EAEB579AB}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/08shooterAutonFire</Property>
@@ -16,8 +17,10 @@
 	<Property Name="varPersistentID:{5A592B58-2A03-4916-A522-AECCF57E414F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/09shooterAutonLatch</Property>
 	<Property Name="varPersistentID:{5BFAB03B-B5AF-4F96-8E1C-AC7A9F77B0F4}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/16compressor</Property>
 	<Property Name="varPersistentID:{6B69E201-60CF-4246-9E34-C58847E1DCEF}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armMotorValue</Property>
+	<Property Name="varPersistentID:{79431F93-32D4-4321-8764-2C5D5A9073CB}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/trussShot</Property>
 	<Property Name="varPersistentID:{7CC538DB-6EA9-4D41-8CC8-8CACFB4D0DB1}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakePneumaticValue</Property>
 	<Property Name="varPersistentID:{8396A577-7D06-427C-9189-093475A45E99}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/18winchEncoder</Property>
+	<Property Name="varPersistentID:{95805A99-1D8C-4314-801A-604DE9E37EC6}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armUp</Property>
 	<Property Name="varPersistentID:{ACF2A78C-4920-476A-ADE8-2361C5003AAD}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/15limitSwitch</Property>
 	<Property Name="varPersistentID:{B6B961D5-5FF0-46E5-8104-7221D7B0039E}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/03rightDrive</Property>
 	<Property Name="varPersistentID:{BE8DD87A-7EAD-46D6-8350-E6CBA28C1B5A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/autoTimeDelay</Property>
@@ -78,7 +81,6 @@
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Timeout" Type="Int">60</Property>
-		<Property Name="target.IOScan.Enabled" Type="Bool">true</Property>
 		<Property Name="target.IOScan.Faults" Type="Str"></Property>
 		<Property Name="target.IOScan.NetVarPeriod" Type="UInt">100</Property>
 		<Property Name="target.IOScan.NetWatchdogEnabled" Type="Bool">false</Property>
@@ -176,6 +178,7 @@ DirectoryIndex index.htm
 		</Item>
 		<Item Name="globalVariablesLibrary.lvlib" Type="Library" URL="../globalVariablesLibrary.lvlib"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
+		<Item Name="armBackDownCode.vi" Type="VI" URL="../armBackDownCode.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Image Type" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Image Type"/>

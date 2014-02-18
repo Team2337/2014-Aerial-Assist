@@ -181,6 +181,15 @@
 		</Item>
 	</Item>
 	<Item Name="values" Type="Folder">
+		<Item Name="armDown" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+		</Item>
 		<Item Name="armMotorValue" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
@@ -189,6 +198,15 @@
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="armUp" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="driveShifterValue" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
@@ -290,6 +308,15 @@
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="shooterTeleopValue" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="trussShot" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 			<Property Name="Network:UseBinding" Type="Str">False</Property>
