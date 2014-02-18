@@ -9,16 +9,13 @@
 	<Property Name="varPersistentID:{2FFFF7A0-266B-45B7-B42D-430209B6C74B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/05intakeMotorRight</Property>
 	<Property Name="varPersistentID:{30C2E21A-9468-4012-B56C-79714B27D7B9}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/21joystickTwo</Property>
 	<Property Name="varPersistentID:{36F7EDE4-D07B-4A38-823A-CB5D570EE0B7}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/13catcherLeft</Property>
-	<Property Name="varPersistentID:{45D87486-8590-429A-912E-FF54CA4C204F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/winchShifterValue</Property>
 	<Property Name="varPersistentID:{4AC50839-A93E-44F0-88EC-5BB6B2FA7D4A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/10shooterTeleop</Property>
 	<Property Name="varPersistentID:{4D7C9D3D-018A-4F44-A2D0-920E30252A35}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/19cameraOne</Property>
 	<Property Name="varPersistentID:{5538AEF5-FB0D-44ED-8DC7-76691D50168D}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/14catcherRight</Property>
 	<Property Name="varPersistentID:{58BBC451-1B2D-43C4-9A92-8590C8D3272B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakeMotorValue</Property>
 	<Property Name="varPersistentID:{5A592B58-2A03-4916-A522-AECCF57E414F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/09shooterAutonLatch</Property>
 	<Property Name="varPersistentID:{5BFAB03B-B5AF-4F96-8E1C-AC7A9F77B0F4}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/16compressor</Property>
-	<Property Name="varPersistentID:{65B55366-DBAF-4030-86E5-3E28082794D6}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/12winchShifter</Property>
 	<Property Name="varPersistentID:{6B69E201-60CF-4246-9E34-C58847E1DCEF}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armMotorValue</Property>
-	<Property Name="varPersistentID:{79C51D65-11C9-45F1-A87F-7C383C99D475}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/07intakePneumaticRight</Property>
 	<Property Name="varPersistentID:{7CC538DB-6EA9-4D41-8CC8-8CACFB4D0DB1}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakePneumaticValue</Property>
 	<Property Name="varPersistentID:{8396A577-7D06-427C-9189-093475A45E99}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/18winchEncoder</Property>
 	<Property Name="varPersistentID:{ACF2A78C-4920-476A-ADE8-2361C5003AAD}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/15limitSwitch</Property>
@@ -756,9 +753,7 @@ DirectoryIndex index.htm
 				<Item Name="SD Write Name Cache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Write Name Cache.vi"/>
 				<Item Name="Prepare Table Name.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Prepare Table Name.vi"/>
 				<Item Name="WPI_RobotDriveDelayAndUpdateSafety.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveDelayAndUpdateSafety.vi"/>
-				<Item Name="SD Read Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Read Boolean.vi"/>
-				<Item Name="SD Read Name Cache.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Read Name Cache.vi"/>
-				<Item Name="SD Read Number.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Read Number.vi"/>
+				<Item Name="WPI_EncoderReset.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderReset.vi"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -772,7 +767,6 @@ DirectoryIndex index.htm
 			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
 			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
 			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
-			<Item Name="armBackDown.vi" Type="VI" URL="../armBackDown.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
