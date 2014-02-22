@@ -2,6 +2,7 @@ These are all of the things that are currently asked of programmers. If you comp
 
 1. El toro split before shooting.
 While unwinding for shoot, spread el toros to pocket the ball.
+Completed - Silas - 2/22 at 2:08 P.M. Edited armBackDownCode VI to set the arms to widen if the winch was ever moving.
 
 2. Do not unwind winch unless we have ball.
 Basically what it says, but we want the auto unwind the winch once we get the ball. This is when we spread the el toros.
