@@ -30,4 +30,4 @@ Completed - Silas - 2/22 at 1:10 P.M. Mapped the button for spreading el toros t
 
 9. Create miniature simulation for testing.
 Create a dashboard or a front panel with boolean lights and sliders for testing without the comp bot.
-Completed - Silas - 2/22 at 1:39 P.M. Created a front panel on periodic tasks showing all of the different motor values and solenoids. This will probably need to be updated somewhere down the road.
+Completed - Silas - 2/22 at 1:39 P.M. Created a front panel on periodic tasks showing all of the different motor values and solenoids. This will probably need to be updated somewhere down the road. It will only work in temp deploy.
