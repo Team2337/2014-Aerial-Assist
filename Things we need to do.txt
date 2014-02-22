@@ -1,0 +1,28 @@
+These are all of the things that are currently asked of programmers. If you complete one of the tasks, please mark it as completed with your name and date and time and maybe a note or two.
+
+1. El toro split before shooting.
+While unwinding for shoot, spread el toros to pocket the ball.
+
+2. Do not unwind winch unless we have ball.
+Basically what it says, but we want the auto unwind the winch once we get the ball. This is when we spread the el toros.
+
+3. Can not double unwind winch.
+We need to make sure that once we hit the zero on the encoder, we cannot zero it again, unless we shoot or the encoder is greater than 500 without shooting.
+
+4. Encoder zero (very connected to #3).
+The idea of when to zero, as per #3.
+
+5. Button to spin el toros in up position.
+Maybe on the driver station or just an extra button, just so that if we are up against another robot and need the ball.
+
+6. LEDs
+Red on one side is if we have just latched and zeroed and we won't let it zero again.
+Red on other side if ball sensor is true (or false or whatever. When we have a ball.)
+Green both ready to shoot (winch up, ball in, arm down, and whatnot).
+Green slow pulse flash if truss shot.
+
+7. Switch for manual override.
+On driver station, makes it so that we can get rid of all automated things, in case switches aren't working.
+
+8. Button for spread el toros (Y maybe)
+So that we may spread el toros if we need to.
