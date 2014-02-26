@@ -9,9 +9,11 @@ Basically what it says, but we want the auto unwind the winch once we get the ba
 
 3. Can not double unwind winch.
 We need to make sure that once we hit the zero on the encoder, we cannot zero it again, unless we shoot or the encoder is greater than 500 without shooting.
+Completed - Silas - 2/25/14 at 9:26 P.M. Finished as well as 3 in winchMotorCode, implemented a feedback node with two cases.
 
 4. Encoder zero (very connected to #3).
 The idea of when to zero, as per #3.
+Completed - Silas - 2/25/14 at 9:26 P.M. Finished as well as 4 in winchMotorCode, implemented a feedback node with two cases.
 
 5. Button to spin el toros in up position.
 Maybe on the driver station or just an extra button, just so that if we are up against another robot and need the ball.
