@@ -6,6 +6,7 @@ Completed - Silas - 2/22 at 2:08 P.M. Edited armBackDownCode VI to set the arms 
 
 2. Do not unwind winch unless we have ball.
 Basically what it says, but we want the auto unwind the winch once we get the ball. This is when we spread the el toros.
+Completed - Silas - 2/26/14 at 8:08 P.M. After shooting, the arm will automatically move down until it hits the limit switch, and then will automatically mvoe up as long as it sees a ball, although previous code will stop this from happening after the encoder reaches max height.
 
 3. Can not double unwind winch.
 We need to make sure that once we hit the zero on the encoder, we cannot zero it again, unless we shoot or the encoder is greater than 500 without shooting.
