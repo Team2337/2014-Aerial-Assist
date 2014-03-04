@@ -152,7 +152,7 @@
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
-		<Item Name="17compressor" Type="Variable">
+		<Item Name="17leftLEDs" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 			<Property Name="Network:UseBinding" Type="Str">False</Property>
@@ -161,7 +161,7 @@
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
-		<Item Name="18cameraOne" Type="Variable">
+		<Item Name="18rightLEDs" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 			<Property Name="Network:UseBinding" Type="Str">False</Property>
@@ -170,7 +170,7 @@
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
-		<Item Name="19joystickOne" Type="Variable">
+		<Item Name="19compressor" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 			<Property Name="Network:UseBinding" Type="Str">False</Property>
@@ -179,7 +179,7 @@
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
-		<Item Name="20joystickTwo" Type="Variable">
+		<Item Name="20cameraOne" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 			<Property Name="Network:UseBinding" Type="Str">False</Property>
@@ -188,7 +188,25 @@
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
-		<Item Name="21bagelBox" Type="Variable">
+		<Item Name="21joystickOne" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="22joystickTwo" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="23bagelBox" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 			<Property Name="Network:UseBinding" Type="Str">False</Property>
@@ -271,6 +289,15 @@
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
+		<Item Name="greenLEDs" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+		</Item>
 		<Item Name="intakeMotorValue" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
@@ -298,6 +325,15 @@
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
+		<Item Name="leftRedLED" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+		</Item>
 		<Item Name="limitSwitchValue" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
@@ -317,6 +353,15 @@
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="rightCatcherValue" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="rightRedLED" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 			<Property Name="Network:UseBinding" Type="Str">False</Property>
