@@ -29,7 +29,7 @@
 	<Property Name="varPersistentID:{4AC50839-A93E-44F0-88EC-5BB6B2FA7D4A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/10shooterTeleop</Property>
 	<Property Name="varPersistentID:{4C84DA15-60B6-4C04-A1EA-30BBDCC51FCC}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/13catcherLeft</Property>
 	<Property Name="varPersistentID:{4E9EF9F2-6D06-46FF-8861-02345FB66F6A}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/intakeMotorValue</Property>
-	<Property Name="varPersistentID:{4FE575AE-232F-4590-A5FA-E82CBE4EE8A1}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/01armMotor</Property>
+	<Property Name="varPersistentID:{4FE575AE-232F-4590-A5FA-E82CBE4EE8A1}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/01winchMotorOne</Property>
 	<Property Name="varPersistentID:{5400AC25-E9F9-4C99-B493-84DB7CE968C4}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/09shooterAutonLatch</Property>
 	<Property Name="varPersistentID:{58BBC451-1B2D-43C4-9A92-8590C8D3272B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakeMotorValue</Property>
 	<Property Name="varPersistentID:{5A592B58-2A03-4916-A522-AECCF57E414F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/09shooterAutonLatch</Property>
@@ -42,6 +42,7 @@
 	<Property Name="varPersistentID:{6CE3FD6B-635D-45D4-9071-2E72D33375AB}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/20cameraOne</Property>
 	<Property Name="varPersistentID:{72839EFC-892D-4766-9405-273E20DF6380}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/03rightDrive</Property>
 	<Property Name="varPersistentID:{79431F93-32D4-4321-8764-2C5D5A9073CB}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/trussShot</Property>
+	<Property Name="varPersistentID:{7B63CBC2-5AC6-4DF7-8CB3-768A0155C424}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/00winchMotorTwo</Property>
 	<Property Name="varPersistentID:{7B786C47-9FAE-45AF-9655-28B5324F7A69}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/autoNumber</Property>
 	<Property Name="varPersistentID:{7C26ACFB-91A5-464F-A522-229A47C66ED5}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/autoTimeDelay</Property>
 	<Property Name="varPersistentID:{7CC538DB-6EA9-4D41-8CC8-8CACFB4D0DB1}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/intakePneumaticValue</Property>
@@ -60,6 +61,7 @@
 	<Property Name="varPersistentID:{A621AB93-398F-4EBC-923A-D349373680F8}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/16winchEncoder</Property>
 	<Property Name="varPersistentID:{A719E7D7-D664-4D24-BA2D-9CF4709820D0}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/19compressor</Property>
 	<Property Name="varPersistentID:{AB783E48-3688-4868-BE5E-4E886DDB2DAA}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/23bagelBox</Property>
+	<Property Name="varPersistentID:{AC43704B-B7B3-443F-AA64-114DD5E3074E}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/00winchMotorTwo</Property>
 	<Property Name="varPersistentID:{ACF2A78C-4920-476A-ADE8-2361C5003AAD}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/15limitSwitch</Property>
 	<Property Name="varPersistentID:{AE71F0E4-9FDA-4645-8090-0192488C1298}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/06intakePneumatics</Property>
 	<Property Name="varPersistentID:{B07D10E5-B05C-4F04-9EE6-50937DD3AFAC}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/manualOverrideMode</Property>
@@ -71,7 +73,7 @@
 	<Property Name="varPersistentID:{BDA72910-A8EC-47FD-BA35-BBAC254F8FAA}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/intakePneumaticValue</Property>
 	<Property Name="varPersistentID:{BE8DD87A-7EAD-46D6-8350-E6CBA28C1B5A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/autoTimeDelay</Property>
 	<Property Name="varPersistentID:{C18E5CDE-0746-466B-A275-8571487F29DB}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/10shooterTeleop</Property>
-	<Property Name="varPersistentID:{C251BF90-06EA-4353-9DF1-D94443AA0603}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/01armMotor</Property>
+	<Property Name="varPersistentID:{C251BF90-06EA-4353-9DF1-D94443AA0603}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/01winchMotorOne</Property>
 	<Property Name="varPersistentID:{C63942E0-C52A-4F93-96E0-BCA3B0936F1F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/elToroWidenValue</Property>
 	<Property Name="varPersistentID:{C7875345-AB1A-4093-9E2D-171987F8FEEA}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/shooterAutonValue</Property>
 	<Property Name="varPersistentID:{CD7BA4C9-2577-4708-81CA-D2C0ECB6987F}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/rightCatcherValue</Property>
@@ -814,6 +816,7 @@ DirectoryIndex index.htm
 				<Item Name="WPI_EncoderReset.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderReset.vi"/>
 				<Item Name="ni_emb.dll" Type="Document" URL="/&lt;vilib&gt;/ni_emb.dll"/>
 				<Item Name="WPI_RelayRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Relay/WPI_RelayRefNum Registry Set.vi"/>
+				<Item Name="WPI_RelayRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Relay/WPI_RelayRefNum Registry Get.vi"/>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
