@@ -43,6 +43,7 @@
 	<Property Name="varPersistentID:{6A2902F2-DA4A-4EB0-9F86-BFD832F8CF25}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/22joystickTwo</Property>
 	<Property Name="varPersistentID:{6B60BB9F-F9ED-428C-89C9-434AADE2832B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/21joystickOne</Property>
 	<Property Name="varPersistentID:{6CE3FD6B-635D-45D4-9071-2E72D33375AB}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/20cameraOne</Property>
+	<Property Name="varPersistentID:{72020CAB-119E-4256-A732-188F368B52FB}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/limitSwitchOverride</Property>
 	<Property Name="varPersistentID:{72839EFC-892D-4766-9405-273E20DF6380}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/03rightDrive</Property>
 	<Property Name="varPersistentID:{79431F93-32D4-4321-8764-2C5D5A9073CB}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/trussShotMove</Property>
 	<Property Name="varPersistentID:{7B63CBC2-5AC6-4DF7-8CB3-768A0155C424}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/00winchMotorTwo</Property>
@@ -65,6 +66,7 @@
 	<Property Name="varPersistentID:{A5CF9071-D584-4D12-B39F-60772B1C0DFB}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/manualOverrideMode</Property>
 	<Property Name="varPersistentID:{A621AB93-398F-4EBC-923A-D349373680F8}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/16winchEncoder</Property>
 	<Property Name="varPersistentID:{A719E7D7-D664-4D24-BA2D-9CF4709820D0}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/19compressor</Property>
+	<Property Name="varPersistentID:{AB6FA18D-5E5E-43C1-A96C-3A1B46F39A17}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/limitSwitchOverride</Property>
 	<Property Name="varPersistentID:{AB783E48-3688-4868-BE5E-4E886DDB2DAA}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/23bagelBox</Property>
 	<Property Name="varPersistentID:{AC43704B-B7B3-443F-AA64-114DD5E3074E}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/00winchMotorTwo</Property>
 	<Property Name="varPersistentID:{ACF2A78C-4920-476A-ADE8-2361C5003AAD}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/15limitSwitch</Property>
@@ -72,6 +74,7 @@
 	<Property Name="varPersistentID:{B07D10E5-B05C-4F04-9EE6-50937DD3AFAC}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/manualOverrideMode</Property>
 	<Property Name="varPersistentID:{B572E0BF-54D3-45AE-94D5-DEFAACB8CD67}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/driveShifterValue</Property>
 	<Property Name="varPersistentID:{B6B961D5-5FF0-46E5-8104-7221D7B0039E}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/03rightDrive</Property>
+	<Property Name="varPersistentID:{B726F62D-584F-4D05-93CD-CBF043F9F028}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/inAuton</Property>
 	<Property Name="varPersistentID:{B78C11CD-15A4-423F-BEE9-D45E795F7A53}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/23bagelBox</Property>
 	<Property Name="varPersistentID:{B9D65440-C282-444D-887E-56E4765BD65F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/armDownOverride</Property>
 	<Property Name="varPersistentID:{BB7ED22F-814B-4E52-B1BA-96F35FD41C5F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/safetyMode</Property>
@@ -87,6 +90,7 @@
 	<Property Name="varPersistentID:{CD7BA4C9-2577-4708-81CA-D2C0ECB6987F}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/rightCatcherValue</Property>
 	<Property Name="varPersistentID:{CE00B2E4-AC8F-4578-91FD-86E3AC8A74F5}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/autoNumber</Property>
 	<Property Name="varPersistentID:{CFBBCBBC-FA4C-47BA-9E30-22D4764E10D9}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/armDownOverride</Property>
+	<Property Name="varPersistentID:{D003C40F-DBA9-419D-8104-085A73A7F32B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/udpString</Property>
 	<Property Name="varPersistentID:{D0546446-F81E-4DF5-8723-FE60F76BECCA}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/02leftDrive</Property>
 	<Property Name="varPersistentID:{D2F2D461-56BB-4577-9966-0562CDD206D0}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/shooterTeleopValue</Property>
 	<Property Name="varPersistentID:{D8215ACE-C91F-4B13-A666-44889989FC78}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/shooterAutonValue</Property>
@@ -96,7 +100,9 @@
 	<Property Name="varPersistentID:{DCCA17BB-8EED-4088-8172-06E63A0EFBA5}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/limitSwitchValue</Property>
 	<Property Name="varPersistentID:{DD2EDA29-6097-46FF-B4C7-49C68F51FA7E}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/driveValueLeft</Property>
 	<Property Name="varPersistentID:{DDA842D0-0D96-4600-A341-9C50A5EBA3B2}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/shooterAutonLatchValue</Property>
+	<Property Name="varPersistentID:{E44FA209-5125-49CA-BA5A-B8B791B6C120}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/inAuton</Property>
 	<Property Name="varPersistentID:{E89240E5-04B7-4D49-94B6-DDA0973F5B8A}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveShifterValue</Property>
+	<Property Name="varPersistentID:{E8FD3A3D-AD63-43FA-B543-A0E8F52775B2}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/udpString</Property>
 	<Property Name="varPersistentID:{E959F096-D80C-4C25-9D49-5298F8265968}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/leftCatcherValue</Property>
 	<Property Name="varPersistentID:{E9D7A5B8-D86D-4BDF-B9B4-3DCDE09D2098}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/18rightLEDs</Property>
 	<Property Name="varPersistentID:{F6751917-E3FA-489F-BB96-592F37F2154F}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/greenLEDs</Property>
@@ -149,6 +155,7 @@
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Timeout" Type="Int">60</Property>
+		<Property Name="target.IOScan.Enabled" Type="Bool">true</Property>
 		<Property Name="target.IOScan.Faults" Type="Str"></Property>
 		<Property Name="target.IOScan.NetVarPeriod" Type="UInt">100</Property>
 		<Property Name="target.IOScan.NetWatchdogEnabled" Type="Bool">false</Property>
@@ -732,6 +739,10 @@ DirectoryIndex index.htm
 			</Item>
 			<Item Name="4motorDriveCheesyStrafe.vi" Type="VI" URL="../4motorDriveCheesyStrafe.vi"/>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
+			<Item Name="niLvFpgaFormatErrorSource.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaFormatErrorSource.vi"/>
+			<Item Name="niLvFpgaWhatHappensToTopLevelVI.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaWhatHappensToTopLevelVI.ctl"/>
+			<Item Name="niFpgaNodeNameForErrorReporting.ctl" Type="VI" URL="/&lt;vilib&gt;/rvi/interface/common/niFpgaNodeNameForErrorReporting.ctl"/>
+			<Item Name="niLvFpgaAdjustHostInterfaceError.vi" Type="VI" URL="/&lt;vilib&gt;/rvi/errors/niLvFpgaAdjustHostInterfaceError.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
