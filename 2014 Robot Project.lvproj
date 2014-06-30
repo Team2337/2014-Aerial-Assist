@@ -43,6 +43,7 @@
 	<Property Name="varPersistentID:{5D3DED4F-53BA-454D-84C1-5521FFB99EA8}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/16winchEncoder</Property>
 	<Property Name="varPersistentID:{5D6B7716-E179-451E-A63C-9338D46D777E}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/12catcherRight</Property>
 	<Property Name="varPersistentID:{5F0B2030-AC64-498A-989D-294E57E424D2}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/autoFlasher</Property>
+	<Property Name="varPersistentID:{658E8E02-3A88-49B0-96E5-3650BD9D1B89}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/dunkMove</Property>
 	<Property Name="varPersistentID:{674658D3-E960-4351-B076-FA8A7AD30150}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/leftRedLED</Property>
 	<Property Name="varPersistentID:{6A2902F2-DA4A-4EB0-9F86-BFD832F8CF25}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/22joystickTwo</Property>
 	<Property Name="varPersistentID:{6B60BB9F-F9ED-428C-89C9-434AADE2832B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/21joystickOne</Property>
@@ -101,6 +102,7 @@
 	<Property Name="varPersistentID:{D0546446-F81E-4DF5-8723-FE60F76BECCA}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/02leftDrive</Property>
 	<Property Name="varPersistentID:{D0FBC437-5444-4787-A382-B4C128AECC29}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/25rightDriveEncoder</Property>
 	<Property Name="varPersistentID:{D2F2D461-56BB-4577-9966-0562CDD206D0}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/shooterTeleopValue</Property>
+	<Property Name="varPersistentID:{D4C12129-00B2-46EE-9B31-0F8F6A277756}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/dunkMove</Property>
 	<Property Name="varPersistentID:{D8215ACE-C91F-4B13-A666-44889989FC78}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/shooterAutonValue</Property>
 	<Property Name="varPersistentID:{D92D2887-7417-4322-B005-5D1CAB00AE22}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/driveValueLeft</Property>
 	<Property Name="varPersistentID:{DBFEF63B-15C0-478C-A1D7-7C8CF23788C7}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/15limitSwitch</Property>
@@ -163,7 +165,6 @@
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Timeout" Type="Int">60</Property>
-		<Property Name="target.IOScan.Enabled" Type="Bool">true</Property>
 		<Property Name="target.IOScan.Faults" Type="Str"></Property>
 		<Property Name="target.IOScan.NetVarPeriod" Type="UInt">100</Property>
 		<Property Name="target.IOScan.NetWatchdogEnabled" Type="Bool">false</Property>
