@@ -48,6 +48,8 @@
 	<Property Name="varPersistentID:{6A2902F2-DA4A-4EB0-9F86-BFD832F8CF25}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/22joystickTwo</Property>
 	<Property Name="varPersistentID:{6B60BB9F-F9ED-428C-89C9-434AADE2832B}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/refnums/21joystickOne</Property>
 	<Property Name="varPersistentID:{6CE3FD6B-635D-45D4-9071-2E72D33375AB}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/20cameraOne</Property>
+	<Property Name="varPersistentID:{6D8AA89C-B9BE-4250-B8E6-E2953C6BED45}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/redFlashLEDs</Property>
+	<Property Name="varPersistentID:{6FC94E83-3CA6-439E-8644-2DEE2DA8F5AE}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/redFlashLEDs</Property>
 	<Property Name="varPersistentID:{72020CAB-119E-4256-A732-188F368B52FB}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/values/limitSwitchOverride</Property>
 	<Property Name="varPersistentID:{72839EFC-892D-4766-9405-273E20DF6380}" Type="Ref">/My Computer/globalVariablesLibrary.lvlib/refnums/03rightDrive</Property>
 	<Property Name="varPersistentID:{79431F93-32D4-4321-8764-2C5D5A9073CB}" Type="Ref">/RT CompactRIO Target/globalVariablesLibrary.lvlib/values/trussShotMove</Property>
@@ -165,6 +167,7 @@
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Timeout" Type="Int">60</Property>
+		<Property Name="target.IOScan.Enabled" Type="Bool">true</Property>
 		<Property Name="target.IOScan.Faults" Type="Str"></Property>
 		<Property Name="target.IOScan.NetVarPeriod" Type="UInt">100</Property>
 		<Property Name="target.IOScan.NetWatchdogEnabled" Type="Bool">false</Property>

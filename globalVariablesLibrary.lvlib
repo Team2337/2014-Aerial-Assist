@@ -451,6 +451,15 @@
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
+		<Item Name="redFlashLEDs" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+		</Item>
 		<Item Name="rightCatcherValue" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
